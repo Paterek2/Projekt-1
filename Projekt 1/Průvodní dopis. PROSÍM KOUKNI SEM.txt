@@ -1,0 +1,3 @@
+Ahoj, posílám ti svůj Projekt 1, snad to takto bude dostačující. Ikdyž musím přiznat že tam mám 2 problémy... umístění patičky (nějak se mi nepodařilo docílit
+ toho, aby byla vždy na konci, ale při zmenšení okna do ní nezasahoval text) a SVG šipku (koukal jsem na to docela dlouho a šipka prostě nechce změnit barvu na zelenou :( ).
+Snad jsem splnil vše co jsi v zadání chtěl, ale pokud ne, prosím řekni co a já se na to ještě podívám. Každopádně teď se chci soustředit na Projekt 2 s Bootstrapem.
